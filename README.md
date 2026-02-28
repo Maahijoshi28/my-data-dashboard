@@ -40,6 +40,6 @@ streamlit run app.py
 ***
 
 ### One quick step before you save:
-Make sure to replace `[INSERT YOUR STREAMLIT CLOUD LINK HERE]` with the actual URL Streamlit gives you once you finish the deployment. If you haven't deployed yet, you can leave that line blank and update it later!
+Make sure to replace `[https://my-data-dashboard-2srw8fhkqz9nbpaprnsgpx.streamlit.app/]` with the actual URL Streamlit gives you once you finish the deployment.
 
 **Are you ready to head over to the Streamlit Cloud website now to finish your deployment?**
