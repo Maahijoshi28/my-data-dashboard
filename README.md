@@ -20,7 +20,7 @@ This dashboard performs Exploratory Data Analysis (EDA) on multi-dimensional var
 * **Web Framework:** Streamlit
 * **Data Manipulation:** Pandas
 * **Visualization:** Plotly
-
+* **SOURCE:** The Gapminder dataset you are using for your project comes from the Gapminder Foundation, a non-profit organization based in Stockholm, Sweden
 ## 📋 How to Run Locally
 1. Clone this repository:
    ```bash
